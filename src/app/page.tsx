@@ -166,7 +166,7 @@ export default function LandingPage() {
   <div id="contact" data-section="contact">
       <ContactCTA
       useInvertedBackground={false}
-      background={{ variant: "glowing-orb" }}
+      background={{ variant: "plain" }}
       tag="Get In Touch"
       title="Ready to fix your device?"
       description="Call us today at +91 9895911144 to register your service request."
